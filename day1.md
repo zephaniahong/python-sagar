@@ -3,7 +3,6 @@
 ## Running Python Code
 
 1. Repl (Read, Evaluate, Print, Loop)
-2. Run file (python day1.py)
 
 ## Operators:
 
